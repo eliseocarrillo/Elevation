@@ -1,0 +1,9 @@
+#elevLayer {
+  padding: 1px 10px;
+  width: 100%;
+  color: black;
+  display: block;
+  background-color: #fafafc;
+  height: 30px;
+  border-color: #d9dde0;
+}
